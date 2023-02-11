@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Potter.getYearOfCreation() = " + Potter.getYearOfCreation());
         Potter.setYearOfCreation(1998);
         System.out.println("Potter.getYearOfCreation() = " + Potter.getYearOfCreation());
+
     }
 }

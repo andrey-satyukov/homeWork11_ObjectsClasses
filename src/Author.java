@@ -10,6 +10,7 @@ public class Author {
     }
     public String getNameAuthor() {
         return this.nameAuthor;
+
     }
 
     public String getSurNameAuthor() {
